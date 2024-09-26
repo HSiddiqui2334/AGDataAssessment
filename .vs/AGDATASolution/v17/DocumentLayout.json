@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65963669-B1F6-4A85-9D39-B1E7FB2C59A8}|AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdataapiautomation\\stepdefinitions\\apitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65963669-B1F6-4A85-9D39-B1E7FB2C59A8}|AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj|solutionrelative:agdataapiautomation\\stepdefinitions\\apitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65963669-B1F6-4A85-9D39-B1E7FB2C59A8}|AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdataapiautomation\\features\\getrequest.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65963669-B1F6-4A85-9D39-B1E7FB2C59A8}|AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj|solutionrelative:agdataapiautomation\\features\\getrequest.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65963669-B1F6-4A85-9D39-B1E7FB2C59A8}|AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdataapiautomation\\model\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65963669-B1F6-4A85-9D39-B1E7FB2C59A8}|AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj|solutionrelative:agdataapiautomation\\model\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65963669-B1F6-4A85-9D39-B1E7FB2C59A8}|AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdataapiautomation\\agdataapiautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65963669-B1F6-4A85-9D39-B1E7FB2C59A8}|AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj|solutionrelative:agdataapiautomation\\agdataapiautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdatauiautomation\\stepdefinitions\\uiautomationstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|solutionrelative:agdatauiautomation\\stepdefinitions\\uiautomationstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdatauiautomation\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|solutionrelative:agdatauiautomation\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdatauiautomation\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|solutionrelative:agdatauiautomation\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdatauiautomation\\features\\uiautomation.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|solutionrelative:agdatauiautomation\\features\\uiautomation.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|c:\\users\\anmol\\source\\repos\\agdatasolution\\agdatauiautomation\\agdatauiautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7CFEBA8-2BB0-4206-BBF2-0033508E87DE}|AGDataUIAutomation\\AGDataUIAutomation.csproj|solutionrelative:agdatauiautomation\\agdatauiautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "AGDataUIAutomation\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\Pages\\HomePage.cs",
+              "RelativeToolTip": "AGDataUIAutomation\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:34:55.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "AGDataUIAutomation\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "AGDataUIAutomation\\Hooks\\Hooks.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:16:50.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AGDataUIAutomation.csproj",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\AGDataUIAutomation.csproj",
+              "RelativeDocumentMoniker": "AGDataUIAutomation\\AGDataUIAutomation.csproj",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\AGDataUIAutomation.csproj",
+              "RelativeToolTip": "AGDataUIAutomation\\AGDataUIAutomation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T09:16:31.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIAutomationStepDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\StepDefinitions\\UIAutomationStepDefinition.cs",
+              "RelativeDocumentMoniker": "AGDataUIAutomation\\StepDefinitions\\UIAutomationStepDefinition.cs",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\StepDefinitions\\UIAutomationStepDefinition.cs",
+              "RelativeToolTip": "AGDataUIAutomation\\StepDefinitions\\UIAutomationStepDefinition.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwDUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:16:24.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIautomation.feature",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\Features\\UIautomation.feature",
+              "RelativeDocumentMoniker": "AGDataUIAutomation\\Features\\UIautomation.feature",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDataUIAutomation\\Features\\UIautomation.feature",
+              "RelativeToolTip": "AGDataUIAutomation\\Features\\UIautomation.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-25T09:15:43.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AGDATAAPIAutomation.csproj",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj",
+              "RelativeDocumentMoniker": "AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj",
+              "RelativeToolTip": "AGDATAAPIAutomation\\AGDATAAPIAutomation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T17:49:02.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDATAAPIAutomation\\StepDefinitions\\ApiTests.cs",
+              "RelativeDocumentMoniker": "AGDATAAPIAutomation\\StepDefinitions\\ApiTests.cs",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDATAAPIAutomation\\StepDefinitions\\ApiTests.cs",
+              "RelativeToolTip": "AGDATAAPIAutomation\\StepDefinitions\\ApiTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:08:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDATAAPIAutomation\\Model\\ApiClient.cs",
+              "RelativeDocumentMoniker": "AGDATAAPIAutomation\\Model\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDATAAPIAutomation\\Model\\ApiClient.cs",
+              "RelativeToolTip": "AGDATAAPIAutomation\\Model\\ApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:49:42.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "getRequest.feature",
+              "DocumentMoniker": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDATAAPIAutomation\\Features\\getRequest.feature",
+              "RelativeDocumentMoniker": "AGDATAAPIAutomation\\Features\\getRequest.feature",
+              "ToolTip": "C:\\Users\\Anmol\\source\\repos\\AGDATASolution\\AGDATAAPIAutomation\\Features\\getRequest.feature",
+              "RelativeToolTip": "AGDATAAPIAutomation\\Features\\getRequest.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T15:29:20.664Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
